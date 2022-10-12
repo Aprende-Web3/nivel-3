@@ -1,0 +1,21 @@
++ @types/chai@4.2.0
++ chai@4.2.0
++ solidity-coverage@0.8.1
++ hardhat-gas-reporter@1.0.8
++ ts-node@10.9.1
++ @types/mocha@9.1.0
++ @nomicfoundation/hardhat-network-helpers@1.0.0
++ @typechain/hardhat@6.1.2
++ @typechain/ethers-v5@10.1.0
++ typechain@8.1.0
++ @nomicfoundation/hardhat-chai-matchers@1.0.0
++ @nomiclabs/hardhat-ethers@2.0.0
++ @nomiclabs/hardhat-etherscan@3.0.0
++ @nomicfoundation/hardhat-toolbox@2.0.0
+added 390 packages from 438 contributors, updated 2 packages and audited 726 packages in 40.179s
+
+104 packages are looking for funding
+  run `npm fund` for details
+
+found 1 critical severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
