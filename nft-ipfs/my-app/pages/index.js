@@ -33,7 +33,7 @@ export default function Home() {
         value: utils.parseEther("0.01"),
       });
       setLoading(true);
-      // wait for the transaction to get mined
+      // Espere a que se extraiga la transacción
       await tx.wait();
       setLoading(false);
       window.alert("Has minteado con éxito un AW3Punk!");
